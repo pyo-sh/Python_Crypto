@@ -1,0 +1,3 @@
+This is an 100 bytes file
+Pycryptodome is needed for crypto
+This .txt file will be encrypted
